@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "dark0rbit8",
+  "repo": "container-lragssm",
+  "name": "dark0rbit8",
+  "email": "dark0rbit@gmail.com",
+}
